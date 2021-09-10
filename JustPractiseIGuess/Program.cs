@@ -42,6 +42,7 @@ namespace JustPractiseIGuess
                    // Console.WriteLine($"p={p}");
                     if (p==2) 
                         Console.WriteLine($"konto zablokowane");
+                        Console.WriteLine($"konto zablokowanex2");
 
                 }
 
